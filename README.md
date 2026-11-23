@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🧬 Bio
 
-<!--
-**l3ea/l3ea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌁 I’m an **urban strategy and operations professional** interested in **urban analytics and quantitative policy evaluation**. 
 
-Here are some ideas to get you started:
+🔭 **Current project** — I’m using an ArcGIS network analysis to calculate the percentage of each Boston census tract within walking distance of frequent bus service. I’m comparing that coverage with tract-level measures of housing and transportation vulnerability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+bea = {
+    "studying": [
+        "Urban and Environmental Policy and Planning",
+        "Spatial Data Analytics",
+    ],
+    "working_with": ["ArcGIS", "pandas", "GTFS data"],
+    "learning": ["Python", "R", "SQL"],
+    "exploring": ["Machine learning", "Travel demand forecasting"],
+    "thinking_about": "How can we measure whether a service plan meets its equity goals?",
+}
+```
