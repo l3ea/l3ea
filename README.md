@@ -8,9 +8,8 @@ bea = {
         "Urban and Environmental Policy and Planning",
         "Spatial Data Analytics",
     ],
-    "working_with": ["ArcGIS", "pandas", "GTFS data"],
     "learning": ["Python", "R", "SQL"],
-    "exploring": ["Machine learning", "Travel demand forecasting"],
+    "exploring": ["Machine Learning", "Travel demand forecasting"],
     "thinking_about": "How can we measure whether a service plan meets its equity goals?",
 }
 ```
